@@ -1,8 +1,8 @@
 ## Welcome! 👋
 
-- 🌱 I’m currently learning => Design patterns and Architectures. Busy with Clean Architecture a.t.m.
+- 🌱 I’m currently learning about design patterns and architectures. Busy with Clean Architecture a.t.m.
 - 📫 How to reach me => Send me an email! github@searche.nl
-- ⚡ Fun fact => Love reading programming books expecialy books from "Uncle Bob"  
+- ⚡ Fun fact: Love reading programming books, especially books from "Uncle Bob."
 
 <!--
 <br>
